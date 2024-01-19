@@ -1,5 +1,5 @@
 
-    Hello, I'm Viacheslav Dmytrenko. I'm a C# .NET developer and a student at the University of Pardubice in the Czech Republic.
+Hello, I'm Viacheslav Dmytrenko. I'm a C# .NET developer and a student at the University of Pardubice in the Czech Republic.
 
 ### Languages and Tools:
 
